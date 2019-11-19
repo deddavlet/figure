@@ -1,0 +1,10 @@
+pre {
+	line-height:normal;
+
+	font-family:"courier new", "courier", monospace;
+	color:green;
+}
+code {
+	font-family: "Courier New", "Courier", monospace;
+	color: #6a2cce;
+}
